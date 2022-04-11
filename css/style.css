@@ -292,6 +292,7 @@
 /*service aside*/
 
 .service{
+    width: 100vw;
     margin: 100px auto;
     height: 645px;
     display: flex;
